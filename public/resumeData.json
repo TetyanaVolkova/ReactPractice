@@ -5,8 +5,8 @@
     "description":"I design and program websites and web applications of all types.",
     "image":"profilepic.jpg",
     "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
-    "email": "bradtraversy@gmail.com",
-    "phone": "555-555-5555",
+    "email": "tatankavolkova@gmail.com",
+    "phone": "301-312-0081",
     "address":{
       "street":"796 Quince Orchard BLVD",
       "city":"Gaithersburg",
@@ -14,7 +14,7 @@
       "zip": "20878"
     },
     "website": "http://www.tetyanavolkova.com",
-    "resumedownload":"http://something.com",
+    "resumedownload":"https://docs.google.com/document/d/1095D-xzfd3PT0quWNltJJxgQOyJKsrRe7i6XxIOYm70/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -56,15 +56,15 @@
   "resume":{
     "education":[
       {
-        "school":"University of Life",
-        "degree":"Master in Graphic Design",
-        "graduated":"April 2007",
+        "school":"KHARKOV UNIVERSITY IN UKRAINE",
+        "degree":"Bachelor of Science, Mathematics",
+        "graduated":"1998",
         "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
       },
       {
-        "school":"School of Cool Designers",
-        "degree":"B.A. Degree in Graphic Design",
-        "graduated":"March 2003",
+        "school":"SCHOOL OF Arts",
+        "degree":"Associate of Fine Arts",
+        "graduated":"2004",
         "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
       }
     ],
@@ -186,14 +186,26 @@
     ]
   },
   "testimonials":{
-    "testimonials":[
+    "testimonial":[
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "user":"John Doe"
+        "text":"Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+        "user":"Benjamin Franklin"
       },
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "user":"Steve Smith"
+        "text":"Older people sit down and ask, 'What is it?' but the boy asks, 'What can I do with it?",
+        "user":"Steve Jobs"
+      },
+      {
+        "text":"Honesty is a very expensive gift, don't expect it from cheap people.",
+        "user":"Warren Buffett"
+      },
+      {
+        "text":"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.",
+        "user":"Henry Ford"
+      },
+      {
+        "text":"It always seems impossible until it's done.",
+        "user":"Nelson Mandela"
       }
     ]
   }

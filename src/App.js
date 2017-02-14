@@ -43,13 +43,13 @@ class App extends Component {
     console.log(this.state.resumeData);
     return (
       <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About />
-        <Resume />
-        <Portfolio />
-        <Testimonials />
-        <Contact />
-        <Footer />
+        <Header data={this.state.resumeData.main} />
+        <About data={this.state.resumeData.main} />
+        <Resume data={this.state.resumeData.resume} />
+        <Portfolio data={this.state.resumeData.portfolio}/>
+        <Testimonials data={this.state.resumeData.testimonials}/>
+        <Contact data={this.state.resumeData.main}/>
+        <Footer data={this.state.resumeData.main}/>
       </div>
     );
   }
